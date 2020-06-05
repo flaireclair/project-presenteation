@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 20d36f140d93042978901db40338cdc8, type: 3}
+  m_Name: Presentation
+  m_EditorClassIdentifier: 
+  slides:
+  - Visible: 1
+    StartInPlayMode: 1
+    Scene: {fileID: 102900000, guid: a411f5f13be3a4cf3bfa051e5cf82022, type: 3}
+    scenePath: 
+  - Visible: 1
+    StartInPlayMode: 1
+    Scene: {fileID: 102900000, guid: 7925aba339233db4bb755e99bb4996d7, type: 3}
+    scenePath: 
+  - Visible: 1
+    StartInPlayMode: 1
+    Scene: {fileID: 102900000, guid: 9fe5e98381487b049b080c3473680084, type: 3}
+    scenePath: 
+  - Visible: 1
+    StartInPlayMode: 1
+    Scene: {fileID: 102900000, guid: 19257c4d45b394bc0b076ab495cd8257, type: 3}
+    scenePath: 
+  - Visible: 1
+    StartInPlayMode: 1
+    Scene: {fileID: 102900000, guid: ea00fdba41a431341af495ca845c4e11, type: 3}
+    scenePath: 
+  - Visible: 1
+    StartInPlayMode: 1
+    Scene: {fileID: 102900000, guid: 3042aa79bb6d72746a23ce9e72867e4b, type: 3}
+    scenePath: 
+  - Visible: 1
+    StartInPlayMode: 1
+    Scene: {fileID: 102900000, guid: 223dc6b54498a654e8070b620878ccd0, type: 3}
+    scenePath: 
+  - Visible: 1
+    StartInPlayMode: 1
+    Scene: {fileID: 102900000, guid: 714163113e2e1924588c499ac4c1b0dd, type: 3}
+    scenePath: 
+  - Visible: 1
+    StartInPlayMode: 1
+    Scene: {fileID: 102900000, guid: a159894d3e1469e4b9b54d2085e30f7b, type: 3}
+    scenePath: 
+  - Visible: 1
+    StartInPlayMode: 1
+    Scene: {fileID: 102900000, guid: 30821e26130b6d540a76487adc82a3b2, type: 3}
+    scenePath: 
+  - Visible: 1
+    StartInPlayMode: 1
+    Scene: {fileID: 102900000, guid: 9fe8fa2d5b60e448da99dbebbba92c2e, type: 3}
+    scenePath: 
+  - Visible: 1
+    StartInPlayMode: 1
+    Scene: {fileID: 102900000, guid: 4350ff9038d5649a6b970ecb6a528ddd, type: 3}
+    scenePath: 
+  backgroundColor: {r: 0, g: 0, b: 0, a: 1}
